@@ -1,0 +1,61 @@
+body{
+  background-color: orange;
+  margin-top: 60px;
+}
+#affichage{
+  background-color: green;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  border: 10px solid gray;
+  height: 40px;
+  width: 900px;
+  margin:  0 auto;
+  box-shadow: 15px 5px 5px black;
+  border-radius:  20px 20px 0px 0px;
+  position: relative;
+  bottom: -10px;
+  z-index: -1;
+}
+canvas{
+  background-color: #2C3E50;
+  border: 10px solid gray;
+  border-radius: 0px 0px 20px 20px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 15px 15px 5px black;
+}
+#tige{
+  background-color: gray;
+  width: 90px;
+  height: 100px;
+  margin: 0 auto;
+  position: relative;
+  bottom: -10px;
+  z-index: -1; 
+  box-shadow: 3px 3px 3px black;
+}
+#pieds{
+  background-color: white;
+  color: green;
+  text-align: center;
+  font-size: 30px;
+  border: 10px solid gray;
+  width: 300px;
+  height: 40px;
+  margin: 0 auto;
+  text-shadow: 1px 2px 3px black;
+  box-shadow: 3px 3px 3px black;
+  border-radius: 20px;
+  
+}
+
+
+
+
+
+
+
+
+
